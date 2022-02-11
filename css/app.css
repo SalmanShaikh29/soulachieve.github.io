@@ -1,0 +1,114 @@
+.main-background {
+    background:black
+}
+
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjW45_1AHC87TBlvxPTIhbbnx6N0oA2iUkA&usqp=CAU');
+    background-repeat: no-repeat;
+    
+  background-size: cover;
+}
+
+.myshadel1 {
+    background: blue;
+}
+
+.myshadel2 {
+    background: red;
+}
+
+.up {
+    margin-top: -20px;
+    color: yellow;
+}
+
+.size {
+    font-size: 15mm;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+  
+.fa {
+    padding: 10px;
+    font-size:25px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+    border-radius: 25%;
+}
+  
+.fa:hover {
+    opacity: 0.7;
+}
+  
+.fa-youtube-play {
+    color:red;
+}
+  
+.fa-whatsapp {
+    color: #04AA6D;
+}
+  
+.fa-instagram {
+    color:wheat;
+}
+
+.block-style {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* Slideshow Styles */
+.docs-example-orbit-slide {
+    padding: 2rem 4rem;
+    color: white;
+}
+  
+.orbit-slide:nth-of-type(1)  {
+    background: dodgerblue;
+}
+  
+.orbit-slide:nth-of-type(2)  {
+    background: rebeccapurple;
+}
+  
+.orbit-slide:nth-of-type(3)  {
+    background: darkgoldenrod;
+}
+  
+.orbit-slide:nth-of-type(4)  {
+    background: lightseagreen;
+}
+/* Slideshow ends */
+
+  
